@@ -1,5 +1,4 @@
-💻 Samantha Alves | Fullstack Developer
-
+💻 Samantha Alves | Fullstack Developer<br>
 Welcome to my GitHub! Here are some of my school projects that I did during my Systems Development degree and now during my Data Intelligence and Analysis degree, where I apply my skills in web and software development.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
