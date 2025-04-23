@@ -48,6 +48,3 @@ Welcome to my GitHub! Here are some of my school projects that I did during my S
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/samanthinhamilgrau/samanthinhamilgrau/output/snake.svg" alt="Snake animation" />
-
