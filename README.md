@@ -22,11 +22,6 @@ Here you will find projects developed during my **Systems Development degree**, 
 ---
 
 ## 📊 GitHub Stats
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{samanthinhamilgrau}/count.svg" alt="Visitor Count" />
-</p>
 
 <div align="center">
   <img 
