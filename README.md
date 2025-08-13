@@ -23,6 +23,10 @@ Here you will find projects developed during my **Systems Development degree**, 
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samanthinhamilgrau&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <div align="center">
   <img 
     alt="GitHub Stats" 
@@ -35,6 +39,13 @@ Here you will find projects developed during my **Systems Development degree**, 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthinhamilgrau&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
   />
 </div>
+
+---
+
+## 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samanthinhamilgrau/samanthinhamilgrau/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
